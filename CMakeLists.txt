@@ -4,5 +4,5 @@ cmake_minimum_required(VERSION 3.10)
 project(BinaryTreesProject)
 
 # Aggiungi le sottodirectory
-add_subdirectory(BINTREES)
-add_subdirectory(BST)
+add_subdirectory(BinTrees)
+add_subdirectory(Binary-Search_Trees)
