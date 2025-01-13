@@ -82,5 +82,3 @@ Per approfondire gli alberi binari e le loro implementazioni, consulta le seguen
 Queste risorse offrono una panoramica completa sugli alberi binari, le loro proprietà e le diverse varianti.
 
 ---
-
-*Nota: Assicurati di aggiornare le sezioni del README in base alle specifiche del tuo progetto, come il nome dell'eseguibile e eventuali dipendenze aggiuntive.*
